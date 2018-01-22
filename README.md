@@ -6,4 +6,4 @@ Hello World.
 
 ALL ABOUT MYSELF!
 
-![]
+![] https://github.com/hayleywilhelm/IASC-2P02/blob/master/beachpicture.jpeg?raw=true
