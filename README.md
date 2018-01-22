@@ -7,6 +7,6 @@ Hello World.
 ALL ABOUT MYSELF!
 
 Visit my blog @ 
-http://github.com - automatic!
-[GitHub](http://github.com)
+http://github.com/hayleywilhelm/IASC-2P02/blog.md - click here!
+
 
