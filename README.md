@@ -6,5 +6,7 @@ Hello World.
 
 ALL ABOUT MYSELF!
 
-Visit my blog @ [linktoblog] (blog.md)
+Visit my blog @ 
+http://github.com - automatic!
+[GitHub](http://github.com)
 
