@@ -6,5 +6,5 @@ Hello World.
 
 ALL ABOUT MYSELF!
 
-Visit my blog:
+Visit my blog @ IASC-2P02/blog.md
 
