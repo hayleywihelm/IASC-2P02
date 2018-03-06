@@ -15,12 +15,12 @@
   
   In conclusion, Drucker and Rhody examine the importance of interpretation within text analysis through their use of feminist and historical examples, both of which look at how the misinterpretation of information can heavily effect the users experience within text analysis. As Franco Moretti mentions, ‘normal literature remains in place for twenty-five years or so,’ so we must ensure we take this into consideration before finalizing our understanding of a body of text. Although we still may be in a troubling place for women in the text analysis environment, by broadening this feminist viewpoint presented by Rhody we can allow for its users to better understand the gender bias within everyday literary texts. 
 
-**References:
+References:
   
-*-	Drucker, J. (2011). Humanities Approaches to Graphical Display. Retrieved from http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html
+-	_Drucker, J. (2011). Humanities Approaches to Graphical Display. Retrieved from http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html_ 
 
 -	Rhody, L. (2016). Why I Dig: Feminist Approaches to Text Analysis. Retrieved from http://dhdebates.gc.cuny.edu/debates/text/97
 
--	Moretti, F. (2005). Graphs, Maps, Trees: Abstract Models for Literary History (9781844671854): Franco Moretti, Alberto Piazza: Books. Retrieved from https://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf*
+-	Moretti, F. (2005). Graphs, Maps, Trees: Abstract Models for Literary History (9781844671854): Franco Moretti, Alberto Piazza: Books. Retrieved from https://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf
 
 
