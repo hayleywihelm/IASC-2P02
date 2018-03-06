@@ -17,10 +17,10 @@
 
 References:
   
--	_Drucker, J. (2011). Humanities Approaches to Graphical Display. Retrieved from http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html 
+-	_Drucker, J. (2011). Humanities Approaches to Graphical Display. Retrieved from http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html_
 
--	_Rhody, L. (2016). Why I Dig: Feminist Approaches to Text Analysis. Retrieved from http://dhdebates.gc.cuny.edu/debates/text/97
+-	_Rhody, L. (2016). Why I Dig: Feminist Approaches to Text Analysis. Retrieved from http://dhdebates.gc.cuny.edu/debates/text/97_
 
--	_Moretti, F. (2005). Graphs, Maps, Trees: Abstract Models for Literary History (9781844671854): Franco Moretti, Alberto Piazza: Books. Retrieved from https://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf
+-	_Moretti, F. (2005). Graphs, Maps, Trees: Abstract Models for Literary History (9781844671854): Franco Moretti, Alberto Piazza: Books. Retrieved from https://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf_
 
 
