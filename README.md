@@ -11,6 +11,6 @@ Visit my blog post:
 [A Blog About Text Analysis](blog.md)
 
 Learn about the Nokia N-Gage: 
-[Nokia N-Gage Presentation](src= "file:///Users/hayleywilhelm/Desktop/IASC-2P02-master/reveal/index.html")
+[Nokia N-Gage Presentation](src= "file:///Users/hayleywilhelm/Desktop/reveal/index.html")
 
 
