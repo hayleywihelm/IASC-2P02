@@ -10,7 +10,7 @@ As for my future, I hope to use my newly developed skill of project management t
 Visit my blog post: 
 [A Blog About Text Analysis](blog.md)
 
-Learn about the Nokia N-Gage: 
+Learn about a past technology: 
 [Nokia N-Gage Presentation](src= "file:///Users/hayleywilhelm/Desktop/reveal/index.html")
 
 
