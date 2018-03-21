@@ -11,6 +11,6 @@ Visit my blog post:
 [A Blog About Text Analysis](blog.md)
 
 Learn about a past technology: 
-[Nokia N-Gage Presentation](src= "file:///Users/hayleywilhelm/Desktop/reveal/index.html")
+[Nokia N-Gage Presentation](reveal/index.html)
 
 
