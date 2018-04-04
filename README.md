@@ -13,4 +13,8 @@ Visit my blog post:
 Learn about a past technology: 
 [Nokia N-Gage Presentation](reveal/index.html)
 
+Feature: ![.](images/featured.jpg)
 
+250 words introducing this work
+
+250 word statement describing how research evolved over time - made these changes which you can see [here]().
