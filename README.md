@@ -7,16 +7,31 @@ Hello! My name is Hayley Wilhelm and I am a current second year Interactive Arts
 
 As for my future, I hope to use my newly developed skill of project management to become a successful graphic designer. My love of technology and art has driven me to work my hardest and achieve my greatest within and outside of my schooling. I believe that this course will allow me to see the realtion between the geography of a company and their work in hopes of creating pieces that will also reflect their background. I hope that you enjoy my work published here!
 
+## Feature: ![.](images/featured.jpeg)
+
+250 words introducing this work
+
+250 word statement describing how research evolved over time - made these changes which you can see [here](https://github.com/hayleywilhelm/IASC-2P02/commit/7bbb65adc855a5bc284e832736645b17245a2316).
+
+I also made these changes, which you can see [here](). *link to commit which shows the chnages made*
+
+Read [A Blog About Text Analysis](blog.md)
+
+## Collaboration ![.](images/collaboration.jpeg)
+
+250 words introducing this work
+
+250 statement describing how research evolved over time (collab statement)- see these changes [here]() *link to collaborative project*
+etc.
+
+
+
 Visit my blog post: 
 [A Blog About Text Analysis](blog.md)
 
 Learn about a past technology: 
 [Nokia N-Gage Presentation](reveal/index.html)
 
-Feature: ![.](images/featured.jpeg)
 
-250 words introducing this work
 
-250 word statement describing how research evolved over time - made these changes which you can see [here]().
 
-I also made changes to this, whcih you can see [here]().
