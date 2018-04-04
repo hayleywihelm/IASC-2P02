@@ -11,7 +11,7 @@ As for my future, I hope to use my newly developed skill of project management t
 
 250 words introducing this work
 
-250 word statement describing how research evolved over time - made these changes which you can see [here](https://github.com/hayleywilhelm/IASC-2P02/commit/7bbb65adc855a5bc284e832736645b17245a2316).
+250 word statement describing how research evolved over time - made these changes which you can see [here](https://github.com/hayleywilhelm/IASC-2P02/commit/7bbb65adc855a5bc284e832736645b17245a2316). ******* AT LEAST 3 LINKS PER THIS STATEMENT TO SHOW CHANGES MADE - THIS MUST ALSO BE DONE FOR COLLABORATION PART! *******
 
 I also made these changes, which you can see [here](). *link to commit which shows the chnages made*
 
