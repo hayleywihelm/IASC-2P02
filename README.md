@@ -17,7 +17,7 @@ I also made these changes, which you can see [here](). *link to commit which sho
 
 Read [A Blog About Text Analysis](blog.md)
 
-## Collaboration ![.](images/collaboration.jpeg)
+## Collaboration ![.](images/collaboration.jpg)
 
 250 words introducing this work
 
@@ -26,10 +26,10 @@ etc.
 
 
 
-Visit my blog post: 
+Visit my Academic Blog  post: 
 [A Blog About Text Analysis](blog.md)
 
-Learn about a past technology: 
+Learn about a past technology (research presentation): 
 [Nokia N-Gage Presentation](reveal/index.html)
 
 
