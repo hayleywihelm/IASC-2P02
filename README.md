@@ -13,7 +13,7 @@ Visit my blog post:
 Learn about a past technology: 
 [Nokia N-Gage Presentation](reveal/index.html)
 
-Feature: ![.](images/featured.jpg)
+Feature: ![.](images/featured.jpeg)
 
 250 words introducing this work
 
