@@ -31,12 +31,10 @@ Visit My Presentation: [Click Here!](reveal/index.html)
 
 ![.](images/Collaborative.png)
 
-250 words introducing this work
+For this project, I worked in collaboration with three of my fellow classmates Harvind, Diane and Khalid. Our project featured an analysis on both Serendip-o-matic and Google Arts and Culture, and their impact on allowing users the ability to examine bodies of work. We used google docs in order to work together on one presentation at the same time. This allowed us to all contribute despite our location or timezone. We edited and collected our notes for the presentation and put them on github as our central information bank. From here we were able to input our finalized information into our presentation slides.
 
 250 statement describing how research evolved over time (collab statement)- see these changes [here]() *link to collaborative project*
 etc.
-
-Visit My Collaborative Project: (reveal/IASC-2P02-TeamPresentations/Research and Findings/Serendip-o-matic.md)
 
 
 Visit My Academic Blog Post: 
