@@ -26,7 +26,7 @@ I also made these changes, which you can see [here](). *link to commit which sho
 Visit My Presentation: [Click Here!](reveal/index.html)
 
 
-## Collaboration 
+## Collaborative Project 
 
 
 ![.](images/Collaborative.png)
@@ -36,6 +36,7 @@ Visit My Presentation: [Click Here!](reveal/index.html)
 250 statement describing how research evolved over time (collab statement)- see these changes [here]() *link to collaborative project*
 etc.
 
+Visit My Collaborative Project: (reveal/IASC-2P02-TeamPresentations/Research and Findings/Serendip-o-matic.md)
 
 
 Visit My Academic Blog Post: 
