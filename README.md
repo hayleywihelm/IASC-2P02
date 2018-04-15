@@ -34,7 +34,7 @@ etc.
 
 
 
-Visit My Academic Blog post: 
+Visit My Academic Blog Post: 
 [A Blog About Text Analysis](blog.md)
 
 Learn About A Past Technology (My Research Presentation): 
