@@ -9,6 +9,8 @@ Within the specific field of IASC class 2P02, digital prototype, I find that my 
 
 As for my future, I hope to use my newly developed skills within project management to become a successful graphic designer. My love of technology and art has driven me to work my hardest and achieve my greatest within and outside of my schooling. I believe that this course will allow me to see the the importance of the georgraphical components within a piece of work. I hope that, by using this, I will be able to create graphic design pieces that also relate to the clients geographical location. I hope that you enjoy my work published here!
 
+![.](images/dog.jpg)
+
 
 ## Feature: [Nokia N-Gage Presentation](reveal/index.html)
 
