@@ -34,10 +34,10 @@ etc.
 
 
 
-Visit my Academic Blog  post: 
+Visit My Academic Blog post: 
 [A Blog About Text Analysis](blog.md)
 
-Learn about a past technology (Research Presentation): 
+Learn About A Past Technology (My Research Presentation): 
 [Nokia N-Gage Presentation](reveal/index.html)
 
 
