@@ -7,7 +7,7 @@ Hello! My name is Hayley Wilhelm and I am a current second year Interactive Arts
 
 As for my future, I hope to use my newly developed skills within project management to become a successful graphic designer. My love of technology and art has driven me to work my hardest and achieve my greatest within and outside of my schooling. I believe that this course will allow me to see the the importance of the georgraphical components within a piece of work. I hope that, by using this, I will be able to create graphic design pieces that also relate to the clients geographical location. I hope that you enjoy my work published here!
 
-## Feature: 
+   ## Feature: 
 ![.](images/feature.gif)
 
 250 words introducing this work
@@ -18,8 +18,8 @@ I also made these changes, which you can see [here](). *link to commit which sho
 
 Read [A Blog About Text Analysis](blog.md)
 
-## Collaboration 
-![.](images/Collaborative.jpg)
+   ## Collaboration 
+![.](images/Collaborative.png)
 
 250 words introducing this work
 
