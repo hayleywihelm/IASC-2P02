@@ -9,6 +9,8 @@ As for my future, I hope to use my newly developed skills within project managem
 
 
 ## Feature: 
+
+
 ![.](images/feature.gif)
 
 250 words introducing this work
@@ -21,6 +23,8 @@ Read [A Blog About Text Analysis](blog.md)
 
 
 ## Collaboration 
+
+
 ![.](images/Collaborative.png)
 
 250 words introducing this work
