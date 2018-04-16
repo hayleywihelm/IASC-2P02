@@ -28,7 +28,7 @@ I also made these changes, which you can see [here](). *link to commit which sho
 Visit My Presentation: [Click Here!](reveal/index.html)
 
 
-## Collaborative Project 
+## Collaborative Project: Serendip-o-matic & Google Arts&Culture
 
 
 ![.](images/Collaborative.png)
