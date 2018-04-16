@@ -41,7 +41,7 @@ In my discoveries, I have found that Serendip-o-matic offers its users with a va
 
 See all these changes [here!](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/edc82b62c7f8369b9a30ae40d6128812d2a1ef43)
 
-SHA-Hash [here!](edc82b62c7f8369b9a30ae40d6128812d2a1ef43)
+You can see this change [here!](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/27ceb8419d1c87a6f33da016ca1ce8340008d966)
 
 ![.](images/serendipomatic.png)
 
