@@ -23,7 +23,8 @@ As for my findings, the downfall of this device relied mainly on timing. Had the
 
 For my updated presentation, I created five additional slides to adhere to the original Pecha Kucha outline. From my original presentation, I was given feedback from my professor that I based my updates on. One issue I has was having too much information on my slides. I changed this slide’s text to see shorter, however I kept the previous text as speakers notes. You can see this change [here](https://github.com/hayleywilhelm/IASC-2P02/commit/cb0261994c9cd3c0ba50c3016b1d20f17f1e475f) . I also added five new slides and 500 words to my presentation. One these slides I focus on the things we can possibly take away from the N-Gage and its downfall. I also focus of the topic of media archaeology in relation to ideas put forward by Jussi Parikka. I could not get my new text to go into my presentation as side notes, so I typed them out in my pecha kucha, then changed them into speaker notes. You can see these slides [here]( https://github.com/hayleywilhelm/IASC-2P02/commit/8e6bae26c360e0e684e19768240ced0819c4691d) . I finally added images to my slides which I found either enhanced or related to the slide’s subject. I added a fun gif to one of my new slides in order to keep the audience’s attention so far on in my presentation. You can view this addition of images/gif [here]( https://github.com/hayleywilhelm/IASC-2P02/commit/8e6bae26c360e0e684e19768240ced0819c4691d) .
 
-![.](images/ya.png)
+![.](images/ya.png) 
+/images/ya.png
 
 Visit My Presentation: [Click Here!](reveal/index.html)
 
