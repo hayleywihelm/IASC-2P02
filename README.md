@@ -21,6 +21,8 @@ This project is a presentation I made examining the Nokia N-Gage. In this presen
 
 As for my findings, the downfall of this device relied mainly on timing. Had the Nokia worked longer to better develop their device, specifically the hardware, they may have had a bertter shot against other new devices. The hardward featured many additional details, such as bluetooth and internet, which were in no relation to the devices purpose. These additional details offered the users no advantage in their everyday lives as users felt more comfortable have two separate device; a phone and a game console. With tough contenders like the Sony PSP and teh Nintendo GameBoy, the device's downsides caused it to become less popular against these. The device was first of its kind, offering users the ability to have mobile gaming in addition to having mobile phoning services. It allowed us to have an experimental playground using future technological advances. The Nokie N-Gage gave us an insight to the technology we use on an everyday basis.
 
+*image here*
+
 250 word statement describing how research evolved over time - made these changes which you can see [here](https://github.com/hayleywilhelm/IASC-2P02/commit/7bbb65adc855a5bc284e832736645b17245a2316). ******* AT LEAST 3 LINKS PER THIS STATEMENT TO SHOW CHANGES MADE - THIS MUST ALSO BE DONE FOR COLLABORATION PART! *******
 
 I also made these changes, which you can see [here](). *link to commit which shows the chnages made*
@@ -37,9 +39,11 @@ For this project, I worked in collaboration with three of my fellow classmates H
 
 In my discoveries, I have found that Serendip-o-matic offers its users with a variety of sources that relate to the body of text, however, many times the sources do not have any relation to the inputted body of texts. This is due to their chosen 'key terms.' These key terms may or not have direct relation to the topic of choice, however, this option allows the user to adventure beyond their topic in order to find interesting new sources. Serendip-o-matic has a quick, easy and effective text analysis platform, which made the process entertaining and knowledgeable. I find that through using Serendip-o-matic within this presentation, it allowed me to expand my knowledge on the text analysis topic as well as give me new information on topics that I researched out of fun. Google Arts and Culture (Google A&C) on the other hand offered its users a easy to navigate yet complex and intriguing platform which keeps the user continually interested. Google A&C offers a multitude of features and tool options which allow you to go beyond your general understanding of a body of work. Through features such as optical zoom on paintings and artists notes, it allows the users to see the details within the work and explore the art more deeply. The significance of this piece is that it introduces two very useful websites which give their users a new perspective towards a body of work. It allows us to understand the artists/authors intentions and meaning behind their work, as we can look into detail about their history and see how their work relates to us today. 
 
-250 statement describing how research evolved over time (collab statement)- see these changes [here]() *link to collaborative project*
-etc.
+250 statement describing how research evolved over time (collab statement)
 
+See all these changes [here]() *link to collaborative project*
+
+*images here*
 
 ## Visit My Academic Blog Post: 
 [A Blog About Text Analysis](blog.md)
