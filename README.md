@@ -21,7 +21,7 @@ This project is a presentation I made examining the Nokia N-Gage. In this presen
 
 As for my findings, the downfall of this device relied mainly on timing. Had the Nokia worked longer to better develop their device, specifically the hardware, they may have had a bertter shot against other new devices. The hardward featured many additional details, such as bluetooth and internet, which were in no relation to the devices purpose. These additional details offered the users no advantage in their everyday lives as users felt more comfortable have two separate device; a phone and a game console. With tough contenders like the Sony PSP and teh Nintendo GameBoy, the device's downsides caused it to become less popular against these. The device was first of its kind, offering users the ability to have mobile gaming in addition to having mobile phoning services. It allowed us to have an experimental playground using future technological advances. The Nokie N-Gage gave us an insight to the technology we use on an everyday basis.
 
-![.](images/Screen Shot 2018-04-16 at 1.13.38 PM.png)
+![.](images/serendipomatic.png)
 
 250 word statement describing how research evolved over time - made these changes which you can see [here](https://github.com/hayleywilhelm/IASC-2P02/commit/7bbb65adc855a5bc284e832736645b17245a2316). ******* AT LEAST 3 LINKS PER THIS STATEMENT TO SHOW CHANGES MADE - THIS MUST ALSO BE DONE FOR COLLABORATION PART! *******
 
