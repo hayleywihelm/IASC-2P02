@@ -23,9 +23,11 @@ As for my findings, the downfall of this device relied mainly on timing. Had the
 
 250 word statement describing how research evolved over time - made these changes which you can see [here](https://github.com/hayleywilhelm/IASC-2P02/commit/7bbb65adc855a5bc284e832736645b17245a2316). ******* AT LEAST 3 LINKS PER THIS STATEMENT TO SHOW CHANGES MADE - THIS MUST ALSO BE DONE FOR COLLABORATION PART! *******
 
-First change: [here](https://github.com/hayleywilhelm/IASC-2P02/commit/1393f4e51a2ea9f0c21ad3b5544ce0d11baac178)
-Second change: [here](https://github.com/hayleywilhelm/IASC-2P02/commit/716c578441aebcb103ee8166686036a9f92af859)
-Third change: [here](https://github.com/hayleywilhelm/IASC-2P02/commit/134f5479f64c3296399c57ff342f3df138fbc4fa)
+First change: [Here](https://github.com/hayleywilhelm/IASC-2P02/commit/1393f4e51a2ea9f0c21ad3b5544ce0d11baac178)
+
+Second change: [Here](https://github.com/hayleywilhelm/IASC-2P02/commit/716c578441aebcb103ee8166686036a9f92af859)
+
+Third change: [Here](https://github.com/hayleywilhelm/IASC-2P02/commit/134f5479f64c3296399c57ff342f3df138fbc4fa)
 
 Visit My Presentation: [Click Here!](reveal/index.html)
 
