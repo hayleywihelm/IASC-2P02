@@ -44,7 +44,7 @@ etc.
 ## Visit My Academic Blog Post: 
 [A Blog About Text Analysis](blog.md)
 
-## Learn About A Past Technology (My Research Presentation): 
+## Visit My Research Presentation: 
 [Nokia N-Gage Presentation](reveal/index.html)
 
 
