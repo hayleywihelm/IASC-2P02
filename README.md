@@ -41,10 +41,10 @@ In my discoveries, I have found that Serendip-o-matic offers its users with a va
 etc.
 
 
-Visit My Academic Blog Post: 
+## Visit My Academic Blog Post: 
 [A Blog About Text Analysis](blog.md)
 
-Learn About A Past Technology (My Research Presentation): 
+## Learn About A Past Technology (My Research Presentation): 
 [Nokia N-Gage Presentation](reveal/index.html)
 
 
