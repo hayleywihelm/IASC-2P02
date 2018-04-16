@@ -39,7 +39,7 @@ In my discoveries, I have found that Serendip-o-matic offers its users with a va
 
 250 statement describing how research evolved over time (collab statement)
 
-See all these changes [here]() *link to collaborative project*
+See all these changes [here](edc82b62c7f8369b9a30ae40d6128812d2a1ef43)
 
 ![.](images/serendipomatic.png)
 
