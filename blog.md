@@ -1,4 +1,4 @@
-# Blog Post 1
+# My First Blog Post
 
 ## A Blog About Text Analysis
 
